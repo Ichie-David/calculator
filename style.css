@@ -18,12 +18,19 @@ section {
     align-items: center;
 }
 
+.out {
+    width: 70%;
+    margin-right: 6rem;
+}
+
 #output {
     padding: 3rem;
     border-radius: 1rem;
     border: none;
+    text-align: end;
     margin-bottom: 1rem;
-    width: 65%;
+    width: 100%;
+    background-color: rgb(204, 204, 240);
 }
 
 button {
@@ -34,8 +41,9 @@ button {
     box-sizing: border-box;
     border: none;
     border-radius: 1rem;
+    cursor: pointer;
 }
 
-.equals {
+#equals {
     background-color: rgb(231, 130, 15);
 }
