@@ -4,14 +4,14 @@
 }
 
 section {
-    border-radius: 5rem;
+    border-radius: 3rem;
     padding: 5rem;
     width: 40%;
     margin: 0 auto;
 }
 
 .tables {
-    background-color: black;
+    background-color: rgb(97, 97, 97);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -20,7 +20,7 @@ section {
 
 #output {
     padding: 3rem;
-    border-radius: 1.5rem;
+    border-radius: 1rem;
     border: none;
     margin-bottom: 1rem;
     width: 65%;
@@ -29,7 +29,7 @@ section {
 button {
     margin: 0.5rem;
     font-size: 3rem;
-    background-color: red;
+    background-color: whitesmoke;
     padding: 2rem;
     box-sizing: border-box;
     border: none;
